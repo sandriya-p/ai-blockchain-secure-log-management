@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+keys/
+storage/
+node_modules/
+dist/
+coverage/
